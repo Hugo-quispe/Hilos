@@ -16,5 +16,5 @@ int main(){
   
   printf("Finalizo la ejecucion del programa principal\n");
   return 0;
-  
+  //ejecucion con tiempo
 }
